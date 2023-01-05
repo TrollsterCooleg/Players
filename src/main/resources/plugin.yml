@@ -1,0 +1,5 @@
+name: Player(s)
+version: '${project.version}'
+main: me.cooleg.players.Players
+depend: [ PlaceholderAPI ]
+author: "Cooleg#8509"
