@@ -1,4 +1,4 @@
-name: Player(s)
+name: Players
 version: '${project.version}'
 main: me.cooleg.players.Players
 depend: [ PlaceholderAPI ]
